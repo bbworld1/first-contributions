@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- Vincent Wang
 -[Carlo Tran] (https://github.com/medicalanthrax)
 - [Chad Perry](https://github.com/clewisperry)
 - [Nandan Bilagi](https://github.com/nandanpytech)
